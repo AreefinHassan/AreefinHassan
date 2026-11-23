@@ -39,6 +39,7 @@ I am an electrical engineer building toward power systems, renewable energy, and
 | [crime-rate-model-selection](https://github.com/AreefinHassan/crime-rate-model-selection) | Crime rate model selection — all-possible + stepwise regression, diagnostics, multicollinearity — SAS (MATH 6364) |
 | [cranfield-logistic-regression](https://github.com/AreefinHassan/cranfield-logistic-regression) | Logistic regression on Cranfield firm data — profitability vs size, sector, incentives, evaluation — SAS (MATH 6364) |
 | [fev1-longitudinal-mixed-model](https://github.com/AreefinHassan/fev1-longitudinal-mixed-model) | Longitudinal mixed-model analysis of FEV1 profiles — UN vs CS covariance structures — SAS (MATH 6364) |
+| [friends-tableau-dashboard](https://github.com/AreefinHassan/friends-tableau-dashboard) | Tableau dashboard on Friends — 236 episodes, seasons 1–10, ratings, directors, votes |
 | [heart-disease-prediction](https://github.com/AreefinHassan/heart-disease-prediction) | Coronary heart disease prediction (SAheart data) — logistic regression, LDA, QDA, Naive Bayes; test AUC 0.77 |
 | [imdb-rating-prediction](https://github.com/AreefinHassan/imdb-rating-prediction) | Predicting IMDB movie ratings — linear regression + random forest; test MSE 0.63, RF test error 8.6% |
 | [tinnitus-tfi-prediction](https://github.com/AreefinHassan/tinnitus-tfi-prediction) | Predicting tinnitus treatment outcomes (TFI reduction) — linear regression + KNN; KNN test MSE 302.94 vs linear 534.74 |
