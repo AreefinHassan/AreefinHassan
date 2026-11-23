@@ -69,7 +69,7 @@ I teach mathematics and statistics at the University of Texas Rio Grande Valley 
 
 <div align="center">
 
-![Areefin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreefinHassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Areefin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreefinHassan&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreefinHassan&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AreefinHassan&theme=tokyonight&hide_border=true)
