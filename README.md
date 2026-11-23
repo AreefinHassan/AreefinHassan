@@ -37,6 +37,18 @@ I teach mathematics and statistics at the University of Texas Rio Grande Valley 
 | [heart-disease-prediction](https://github.com/AreefinHassan/heart-disease-prediction) | Coronary heart disease prediction (SAheart data) — logistic regression, LDA, QDA, Naive Bayes; test AUC 0.77 |
 | [imdb-rating-prediction](https://github.com/AreefinHassan/imdb-rating-prediction) | Predicting IMDB movie ratings — linear regression + random forest; test MSE 0.63, RF test error 8.6% |
 | [tinnitus-tfi-prediction](https://github.com/AreefinHassan/tinnitus-tfi-prediction) | Predicting tinnitus treatment outcomes (TFI reduction) — linear regression + KNN; KNN test MSE 302.94 vs linear 534.74 |
+| [shopping-cart-database-design](https://github.com/AreefinHassan/shopping-cart-database-design) | Shopping cart database design — ER diagram, relational algebra queries, MySQL schema |
+| [Prediction-of-coffee-ratings-based-on-attributes-and-identified-notes](https://github.com/AreefinHassan/Prediction-of-coffee-ratings-based-on-attributes-and-identified-notes) | Coffee rating prediction — Naive Bayes on coffee attributes + review text; validation F1 0.906 |
+| [decision-tree-from-scratch](https://github.com/AreefinHassan/decision-tree-from-scratch) | Decision tree built from scratch in pure Python — Gini index, splits, no libraries |
+| [decision-tree-boundaries](https://github.com/AreefinHassan/decision-tree-boundaries) | Decision-tree decision boundaries — comparing single-split vs two-split trees |
+| [iris-dataset-exploration](https://github.com/AreefinHassan/iris-dataset-exploration) | Iris dataset exploration — sepal/petal scatter analysis across three species |
+| [fast-food-nutrition-analysis](https://github.com/AreefinHassan/fast-food-nutrition-analysis) | Fast-food nutrition analysis in R — 126 menu items across 12 restaurants |
+| [airport-movie-data-analysis](https://github.com/AreefinHassan/airport-movie-data-analysis) | Airport route counts follow a power law; movie ratings follow a normal distribution |
+| [youtube-comments-analysis](https://github.com/AreefinHassan/youtube-comments-analysis) | YouTube comments analysis — Game of Thrones vs Breaking Bad, word clouds + term frequencies |
+| [genomic-variant-association](https://github.com/AreefinHassan/genomic-variant-association) | Genomic variant association — Arabidopsis mutual information, Jaccard, chi-squared + Pearson correlations |
+| [congress-voting-analysis](https://github.com/AreefinHassan/congress-voting-analysis) | 1984 Congress votes clustering — k-means matches party labels with 88.28% accuracy |
+| [boston-housing-regression](https://github.com/AreefinHassan/boston-housing-regression) | Boston Housing regression in R — KNN best, RMSE 3.572, R² 0.829 |
+| [customer-churn-prediction](https://github.com/AreefinHassan/customer-churn-prediction) | T-Mobile churn prediction + Congress votes PCA and k-means clustering |
 
 ---
 
