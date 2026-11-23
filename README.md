@@ -34,7 +34,7 @@ I teach mathematics and statistics at the University of Texas Rio Grande Valley 
 
 | Project | What it does |
 |---|---|
-| [stat-learning-midterm-saheart](https://github.com/AreefinHassan/stat-learning-midterm-saheart) | Coronary heart disease prediction (SAheart data) — logistic regression, LDA, QDA, Naive Bayes; test AUC 0.77 |
+| [heart-disease-prediction](https://github.com/AreefinHassan/heart-disease-prediction) | Coronary heart disease prediction (SAheart data) — logistic regression, LDA, QDA, Naive Bayes; test AUC 0.77 |
 | [imdb-rating-prediction](https://github.com/AreefinHassan/imdb-rating-prediction) | Predicting IMDB movie ratings — linear regression + random forest; test MSE 0.63, RF test error 8.6% |
 
 ---
