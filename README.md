@@ -10,12 +10,13 @@
 
 **Electrical Engineer | Power Systems & Renewable Energy | Lecturer at UTRGV**
 
-I teach mathematics and statistics at the University of Texas Rio Grande Valley — and I'm building my career toward power systems, renewable energy, and grid integration. My background bridges both worlds: a B.S. in Electrical and Electronics Engineering, research on floating solar photovoltaics published in *Nature Sustainability*, and two master's degrees in renewable energy technology and applied statistics & data science.
+I am an electrical engineer building toward power systems, renewable energy, and grid integration — and a Lecturer I in Mathematics at the University of Texas Rio Grande Valley. My background bridges both worlds: a B.S. in Electrical and Electronics Engineering, research on floating solar photovoltaics published in *Nature Sustainability*, and two master's degrees in renewable energy technology and applied statistics & data science (M.S. GPA 3.83).
 
-- 🎓 **Lecturer, UTRGV** (Aug 2024 – Present) — MATH 1342 Elementary Statistical Methods & MATH 1314 College Algebra
-- ⚡ **FE Electrical passed (Aug 2025)** — Texas EIT licensure in progress
+- ⚡ **Electrical Engineer** — B.S. Electrical and Electronics Engineering; FE Electrical passed (Aug 2025), Texas EIT in progress
+- 🎓 **Lecturer I in Mathematics, UTRGV** (Aug 2024 – Present) — College Algebra, Precalculus, Calculus I, Statistics, Business Math, Liberal Arts Math, Developmental Math, Linear Algebra
 - 🔬 **Research:** floating solar PV + hydropower greenhouse-gas mitigation
-- 📍 Edinburg, TX — willing to relocate
+- 🏆 **UTRGV Outstanding Overall Masters Student** and **Outstanding Masters Research Performance** awards (June 2024)
+- 📍 Edinburg, TX — open to relocation anywhere in the U.S.
 - 📫 [LinkedIn](https://www.linkedin.com/in/areefin-ul-hassan-chowdhury-75a886162/) · hassanareefin466@gmail.com
 
 ---
@@ -80,9 +81,9 @@ I teach mathematics and statistics at the University of Texas Rio Grande Valley 
 
 ## 🎓 Teaching
 
-I currently teach at UTRGV — Elementary Statistical Methods (MATH 1342) and College Algebra (MATH 1314) — using Brightspace and ALEKS. Teaching keeps my statistics sharp; engineering is where I'm headed next.
+I currently teach at UTRGV — College Algebra (MATH 1314), Precalculus (MATH 2312), Calculus I (MATH 2413), Elementary Statistical Methods (MATH 1342), Business Math (MATH 1324), Liberal Arts Math (MATH 1332), Developmental Math (MATH 0314), and Linear Algebra (MATH 3341) — face-to-face and online, using Brightspace, ALEKS, WeBWorK, WebAssign, and Knewton Alta. I teach learning target-based (GML) courses, develop lectures, assignments, quizzes, and exams, and support students through office hours, advising, and mentoring. Teaching keeps my statistics sharp; engineering is where I'm headed next.
 
-**Open to:** Electrical Engineer · Power Systems Engineer · Renewable Energy Engineer · Interconnection Engineer · Grid Planning Engineer roles in Texas (Houston, Austin, San Antonio, Dallas–Fort Worth) — on-site, hybrid, or remote.
+**Open to:** Electrical Engineer · Power Systems Engineer · Renewable Energy Engineer · Interconnection Engineer · Grid Planning Engineer roles — open to relocation across the U.S., on-site, hybrid, or remote.
 
 ---
 
