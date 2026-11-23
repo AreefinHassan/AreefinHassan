@@ -35,6 +35,7 @@ I am an electrical engineer building toward power systems, renewable energy, and
 
 | Project | What it does |
 |---|---|
+| [stochastic-processes](https://github.com/AreefinHassan/stochastic-processes) | Branching processes, extinction probability, gambler's ruin, transition matrices — R (STAT 6379) |
 | [heart-disease-prediction](https://github.com/AreefinHassan/heart-disease-prediction) | Coronary heart disease prediction (SAheart data) — logistic regression, LDA, QDA, Naive Bayes; test AUC 0.77 |
 | [imdb-rating-prediction](https://github.com/AreefinHassan/imdb-rating-prediction) | Predicting IMDB movie ratings — linear regression + random forest; test MSE 0.63, RF test error 8.6% |
 | [tinnitus-tfi-prediction](https://github.com/AreefinHassan/tinnitus-tfi-prediction) | Predicting tinnitus treatment outcomes (TFI reduction) — linear regression + KNN; KNN test MSE 302.94 vs linear 534.74 |
