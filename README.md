@@ -10,7 +10,7 @@
 
 **Electrical Engineer | Power Systems & Renewable Energy | Lecturer at UTRGV**
 
-I am an electrical engineer building toward power systems, renewable energy, and grid integration — and a Lecturer I in Mathematics at the University of Texas Rio Grande Valley. My background bridges both worlds: a B.S. in Electrical and Electronics Engineering, research on floating solar photovoltaics published in *Nature Sustainability*, and two master's degrees in renewable energy technology and applied statistics & data science (M.S. GPA 3.83).
+I am an electrical engineer building toward power systems, renewable energy, and grid integration — and a Lecturer I in Mathematics at the University of Texas Rio Grande Valley. My background bridges both worlds: a B.S. in Electrical and Electronics Engineering, research on floating solar photovoltaics published in *Nature Sustainability*, and two master's degrees in renewable energy technology and applied statistics & data science.
 
 - ⚡ **Electrical Engineer** — B.S. Electrical and Electronics Engineering; FE Electrical passed (Aug 2025), Texas EIT in progress
 - 🎓 **Lecturer I in Mathematics, UTRGV** (Aug 2024 – Present) — College Algebra, Precalculus, Calculus I, Statistics, Business Math, Liberal Arts Math, Developmental Math, Linear Algebra
