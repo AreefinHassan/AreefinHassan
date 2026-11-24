@@ -76,7 +76,7 @@ I am an electrical engineer building toward power systems, renewable energy, and
 <div align="center">
 
 ![Areefin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreefinHassan&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreefinHassan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreefinHassan&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AreefinHassan&theme=tokyonight&hide_border=true)
 
